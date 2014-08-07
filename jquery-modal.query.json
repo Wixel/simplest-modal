@@ -29,7 +29,7 @@
         }
     ],
     "bugs": "https://github.com/Wixel/simplest-modal/issues",
-    "homepage": "http://wixel.github.io/jquery-modal",
+    "homepage": "http://wixel.github.io/simplest-modal",
     "docs": "https://github.com/Wixel/simplest-modal",
     "download": "https://github.com/Wixel/simplest-modal",
 	"dependencies": {
