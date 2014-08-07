@@ -1,6 +1,6 @@
 Simplest-Modal
 ==============
 
-A drop-dead simple &amp; modern modal library to generate fast inline modal dialogs.
+A drop-dead simple, customisable & modern modal plugin to generate fast dialogs from inline and Ajax sources.
 
 Coming soon.
