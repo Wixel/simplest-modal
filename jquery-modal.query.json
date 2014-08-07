@@ -1,0 +1,38 @@
+{
+    "name": "jquery-modal",
+    "title": "Simplest jQuery Modal",
+    "description": "A super simple jQuery modal dialog plugin",
+    "keywords": [
+        "dialog",
+        "modal",
+        "popup",
+		"alert",
+		"ui",
+		"interface"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Wixel",
+        "url": "http://wixelhq.com"
+    },
+    "maintainers": [
+        {
+            "name": "Sean Nieuwoudt",
+            "email": "sean@wixelhq.com",
+            "url": "http://wixelhq.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "GNU GPL",
+			"url": "https://github.com/Wixel/simplest-modal/blob/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/Wixel/simplest-modal/issues",
+    "homepage": "http://wixel.github.io/jquery-modal",
+    "docs": "https://github.com/Wixel/simplest-modal",
+    "download": "https://github.com/Wixel/simplest-modal",
+	"dependencies": {
+		"jquery": ">=1.10"
+	}
+}
